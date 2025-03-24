@@ -1,2 +1,2 @@
 # Astrid-Barboza-WP-Theme
-something
+something else
